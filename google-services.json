@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "791256179562",
+    "firebase_url": "https://old-fcm-plugin.firebaseio.com",
+    "project_id": "old-fcm-plugin",
+    "storage_bucket": "old-fcm-plugin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791256179562:android:32e677d19fab2d19023b13",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791256179562-hvo0ke73idqdjotln57rbavjdept2v4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgPGJQ48PTqyZmMq1Ij4J1c4HU20boy3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791256179562-hvo0ke73idqdjotln57rbavjdept2v4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791256179562-8vvmkde45ghs1o1oqo55erff78r09fkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.starter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

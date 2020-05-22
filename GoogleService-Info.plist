@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>791256179562-8vvmkde45ghs1o1oqo55erff78r09fkp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.791256179562-8vvmkde45ghs1o1oqo55erff78r09fkp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPynQH5qMWAxLNdSkZ4tTDc4dJ1hfhzMI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>791256179562</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.ionic.starter</string>
+	<key>PROJECT_ID</key>
+	<string>old-fcm-plugin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>old-fcm-plugin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:791256179562:ios:8d528b4784d0b918023b13</string>
+	<key>DATABASE_URL</key>
+	<string>https://old-fcm-plugin.firebaseio.com</string>
+</dict>
+</plist>
